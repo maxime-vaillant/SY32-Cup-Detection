@@ -1,7 +1,10 @@
+.idea
+.DS_Store
+__pycache__
+
 yolov5
 dataset
-images/train/*
-images/val/*
-labels/train/*
-labels/val/*
+images/*
+labels/*
 train_images/*
+runs
